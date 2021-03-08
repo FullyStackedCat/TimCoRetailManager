@@ -73,6 +73,6 @@
     <RefactorLog Include="TRMData.refactorlog" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="TRMData.publish.xml" />
+    <None Include="PublishLocations\TRMData.publish.xml" />
   </ItemGroup>
 </Project>
