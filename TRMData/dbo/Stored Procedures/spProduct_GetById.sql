@@ -6,6 +6,6 @@ begin
 
 	select Id, ProductName, [Description], RetailPrice, QuantityInStock, IsTaxable
 	from dbo.Product
-	where Id = @id;
+	where Id = @Id;
 
 end
