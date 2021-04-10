@@ -207,7 +207,7 @@ namespace TRMDesktopUI.ViewModels
                 bool output = false;
 
                 // Make sure something is selected
-                if (SelectedCartItem != null && SelectedCartItem?.Product.QuantityInStock > 0)
+                if (SelectedCartItem != null && SelectedCartItem?.QuantityInCart > 0)
                 {
                     output = true;
                 }
@@ -234,6 +234,7 @@ namespace TRMDesktopUI.ViewModels
             NotifyOfPropertyChange(() => Tax);
             NotifyOfPropertyChange(() => Total);
             NotifyOfPropertyChange(() => CanCheckOut);
+            NotifyOfPropertyChange(() => CanAddToCart);
         }
 
         public bool CanCheckOut
