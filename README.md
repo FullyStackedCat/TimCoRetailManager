@@ -1,5 +1,5 @@
 # TimCoRetailManager
-TimCo Retail Manager Course by IAmTimCorey on [Youtube](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) 
+TimCo Retail Manager Course by [IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) on Youtube
 
 The project is developed using .Net framework, WPF, MVVM, SQL Server, AutoMapper.
 
