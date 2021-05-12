@@ -1,7 +1,7 @@
 # TimCoRetailManager
-TimCo Retail Manager Course by [IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) on Youtube
+TimCo Retail Manager Course by [IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx).
 
-The project is developed using .Net framework, WPF, MVVM, SQL Server, AutoMapper.
+The project is developed using .Net framework, WPF, MVVM, & SQL Server.
 
 ## Course Structure
 
@@ -27,11 +27,11 @@ The project is developed using .Net framework, WPF, MVVM, SQL Server, AutoMapper
 19. Posting Sales Data to an API ✔
 20. Automapper and INotifyPropertyChanged ✔
 21. C# Debugging and Clean Up ✔
-22. SQL Transactions in C# using Dapper 
-23. SQL Transaction Bug Fix 
-24. Admin Endpoints in WebAPI 
-25. Adding Roles to the API 
-26. User Permissions and Error Handling 
-27. Displaying Users and Groups/Roles 
+22. SQL Transactions in C# using Dapper ✔
+23. SQL Transaction Bug Fix ✔
+24. Admin Endpoints in WebAPI ✔
+25. Adding Roles to the API ✔
+26. User Permissions and Error Handling ✔
+27. Displaying Users and Groups/Roles ✔
 28. Managing User Roles
 29. Upgrading to .NET Core 
